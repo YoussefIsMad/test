@@ -1,3 +1,3 @@
-package testlib
+package demopackage
 
 var X string
